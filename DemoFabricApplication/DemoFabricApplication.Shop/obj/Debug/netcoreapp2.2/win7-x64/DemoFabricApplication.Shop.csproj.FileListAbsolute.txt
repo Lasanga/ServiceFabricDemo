@@ -1,0 +1,17 @@
+C:\Users\LasangaGuruge\source\repos\DemoFabricApplication\DemoFabricApplication.Shop\obj\Debug\netcoreapp2.2\win7-x64\DemoFabricApplication.Shop.csproj.CoreCompileInputs.cache
+C:\Users\LasangaGuruge\source\repos\DemoFabricApplication\DemoFabricApplication.Shop\obj\Debug\netcoreapp2.2\win7-x64\DemoFabricApplication.Shop.AssemblyInfoInputs.cache
+C:\Users\LasangaGuruge\source\repos\DemoFabricApplication\DemoFabricApplication.Shop\obj\Debug\netcoreapp2.2\win7-x64\DemoFabricApplication.Shop.AssemblyInfo.cs
+C:\Users\LasangaGuruge\source\repos\DemoFabricApplication\DemoFabricApplication.Shop\bin\Debug\netcoreapp2.2\win7-x64\hostpolicy.dll
+C:\Users\LasangaGuruge\source\repos\DemoFabricApplication\DemoFabricApplication.Shop\bin\Debug\netcoreapp2.2\win7-x64\hostfxr.dll
+C:\Users\LasangaGuruge\source\repos\DemoFabricApplication\DemoFabricApplication.Shop\bin\Debug\netcoreapp2.2\win7-x64\DemoFabricApplication.Shop.exe
+C:\Users\LasangaGuruge\source\repos\DemoFabricApplication\DemoFabricApplication.Shop\bin\Debug\netcoreapp2.2\win7-x64\DemoFabricApplication.Shop.deps.json
+C:\Users\LasangaGuruge\source\repos\DemoFabricApplication\DemoFabricApplication.Shop\bin\Debug\netcoreapp2.2\win7-x64\DemoFabricApplication.Shop.runtimeconfig.json
+C:\Users\LasangaGuruge\source\repos\DemoFabricApplication\DemoFabricApplication.Shop\bin\Debug\netcoreapp2.2\win7-x64\DemoFabricApplication.Shop.runtimeconfig.dev.json
+C:\Users\LasangaGuruge\source\repos\DemoFabricApplication\DemoFabricApplication.Shop\bin\Debug\netcoreapp2.2\win7-x64\DemoFabricApplication.Shop.dll
+C:\Users\LasangaGuruge\source\repos\DemoFabricApplication\DemoFabricApplication.Shop\bin\Debug\netcoreapp2.2\win7-x64\DemoFabricApplication.Shop.pdb
+C:\Users\LasangaGuruge\source\repos\DemoFabricApplication\DemoFabricApplication.Shop\obj\Debug\netcoreapp2.2\win7-x64\DemoFabricApplication.Shop.csprojAssemblyReference.cache
+C:\Users\LasangaGuruge\source\repos\DemoFabricApplication\DemoFabricApplication.Shop\obj\Debug\netcoreapp2.2\win7-x64\DemoFabricApplication.Shop.RazorAssemblyInfo.cache
+C:\Users\LasangaGuruge\source\repos\DemoFabricApplication\DemoFabricApplication.Shop\obj\Debug\netcoreapp2.2\win7-x64\DemoFabricApplication.Shop.RazorAssemblyInfo.cs
+C:\Users\LasangaGuruge\source\repos\DemoFabricApplication\DemoFabricApplication.Shop\obj\Debug\netcoreapp2.2\win7-x64\DemoFabricApplication.Shop.RazorTargetAssemblyInfo.cache
+C:\Users\LasangaGuruge\source\repos\DemoFabricApplication\DemoFabricApplication.Shop\obj\Debug\netcoreapp2.2\win7-x64\DemoFabricApplication.Shop.dll
+C:\Users\LasangaGuruge\source\repos\DemoFabricApplication\DemoFabricApplication.Shop\obj\Debug\netcoreapp2.2\win7-x64\DemoFabricApplication.Shop.pdb

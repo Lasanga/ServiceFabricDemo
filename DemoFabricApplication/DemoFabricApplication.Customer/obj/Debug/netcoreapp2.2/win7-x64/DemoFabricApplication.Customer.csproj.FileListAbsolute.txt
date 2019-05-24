@@ -1,0 +1,17 @@
+C:\Users\LasangaGuruge\source\repos\DemoFabricApplication\DemoFabricApplication.Customer\obj\Debug\netcoreapp2.2\win7-x64\DemoFabricApplication.Customer.csproj.CoreCompileInputs.cache
+C:\Users\LasangaGuruge\source\repos\DemoFabricApplication\DemoFabricApplication.Customer\obj\Debug\netcoreapp2.2\win7-x64\DemoFabricApplication.Customer.AssemblyInfoInputs.cache
+C:\Users\LasangaGuruge\source\repos\DemoFabricApplication\DemoFabricApplication.Customer\obj\Debug\netcoreapp2.2\win7-x64\DemoFabricApplication.Customer.AssemblyInfo.cs
+C:\Users\LasangaGuruge\source\repos\DemoFabricApplication\DemoFabricApplication.Customer\bin\Debug\netcoreapp2.2\win7-x64\hostpolicy.dll
+C:\Users\LasangaGuruge\source\repos\DemoFabricApplication\DemoFabricApplication.Customer\bin\Debug\netcoreapp2.2\win7-x64\hostfxr.dll
+C:\Users\LasangaGuruge\source\repos\DemoFabricApplication\DemoFabricApplication.Customer\bin\Debug\netcoreapp2.2\win7-x64\DemoFabricApplication.Customer.exe
+C:\Users\LasangaGuruge\source\repos\DemoFabricApplication\DemoFabricApplication.Customer\bin\Debug\netcoreapp2.2\win7-x64\DemoFabricApplication.Customer.deps.json
+C:\Users\LasangaGuruge\source\repos\DemoFabricApplication\DemoFabricApplication.Customer\bin\Debug\netcoreapp2.2\win7-x64\DemoFabricApplication.Customer.runtimeconfig.json
+C:\Users\LasangaGuruge\source\repos\DemoFabricApplication\DemoFabricApplication.Customer\bin\Debug\netcoreapp2.2\win7-x64\DemoFabricApplication.Customer.runtimeconfig.dev.json
+C:\Users\LasangaGuruge\source\repos\DemoFabricApplication\DemoFabricApplication.Customer\bin\Debug\netcoreapp2.2\win7-x64\DemoFabricApplication.Customer.dll
+C:\Users\LasangaGuruge\source\repos\DemoFabricApplication\DemoFabricApplication.Customer\obj\Debug\netcoreapp2.2\win7-x64\DemoFabricApplication.Customer.csprojAssemblyReference.cache
+C:\Users\LasangaGuruge\source\repos\DemoFabricApplication\DemoFabricApplication.Customer\obj\Debug\netcoreapp2.2\win7-x64\DemoFabricApplication.Customer.RazorAssemblyInfo.cache
+C:\Users\LasangaGuruge\source\repos\DemoFabricApplication\DemoFabricApplication.Customer\obj\Debug\netcoreapp2.2\win7-x64\DemoFabricApplication.Customer.RazorAssemblyInfo.cs
+C:\Users\LasangaGuruge\source\repos\DemoFabricApplication\DemoFabricApplication.Customer\obj\Debug\netcoreapp2.2\win7-x64\DemoFabricApplication.Customer.RazorTargetAssemblyInfo.cache
+C:\Users\LasangaGuruge\source\repos\DemoFabricApplication\DemoFabricApplication.Customer\bin\Debug\netcoreapp2.2\win7-x64\DemoFabricApplication.Customer.pdb
+C:\Users\LasangaGuruge\source\repos\DemoFabricApplication\DemoFabricApplication.Customer\obj\Debug\netcoreapp2.2\win7-x64\DemoFabricApplication.Customer.dll
+C:\Users\LasangaGuruge\source\repos\DemoFabricApplication\DemoFabricApplication.Customer\obj\Debug\netcoreapp2.2\win7-x64\DemoFabricApplication.Customer.pdb
